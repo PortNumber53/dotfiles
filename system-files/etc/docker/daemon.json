@@ -1,11 +1,11 @@
 {
-    "runtimes": {
-      "runsc": {
-        "path": "/usr/local/bin/runsc",
-        "runtimeArgs": [
-          "--debug",
-          "--log=/tmp/runsc.log"
-        ]
-      }
+  "runtimes": {
+    "runsc": {
+      "path": "/usr/local/bin/runsc",
+      "runtimeArgs": [
+        "--debug",
+        "--log=/tmp/runsc.log"
+      ]
     }
   }
+}
